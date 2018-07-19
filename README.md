@@ -1,5 +1,7 @@
 # monaco editor sample with docker-compose
 
+See: https://github.com/Microsoft/monaco-editor-samples
+
 ## How to Use
 
 Requirements:
